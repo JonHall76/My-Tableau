@@ -63,3 +63,12 @@ View the live dashboard here:
 📚 Insights & Reflections
 The dashboard highlights global differences in life expectancy, BMI, and gender‑based population structure.
 These insights can inform how large health organisations (such as the NHS) compare their outcomes with high‑performing countries and identify strategies that contribute to better health metrics.
+
+# Tableau Visualisations
+
+<img width="646" height="320" alt="image" src="https://github.com/user-attachments/assets/39b6e538-ffd3-4973-b20f-11541e6c8248" />
+
+<img width="625" height="357" alt="image" src="https://github.com/user-attachments/assets/d0758850-ca3e-4328-86c3-3658492f6436" />
+
+<img width="642" height="367" alt="image" src="https://github.com/user-attachments/assets/bc9274ae-0cd6-43d0-94ba-6c2a0ffabd87" />
+
