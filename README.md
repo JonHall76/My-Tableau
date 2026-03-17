@@ -1,6 +1,4 @@
 # My-Tableau
-Below is a clean, polished GitHub README summary in markdown for your Tableau project.
-Let me know if you'd like a longer version, images added, or extra sections like How to Use the Dashboard or Future Improvements.
 
 📊 Tableau Project: Global Health Insights Dashboard
 A Data Technician Bootcamp Project
